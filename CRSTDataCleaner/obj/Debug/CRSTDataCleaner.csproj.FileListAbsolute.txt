@@ -1,0 +1,12 @@
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\bin\Debug\CRSTDataCleaner.exe.config
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\bin\Debug\CRSTDataCleaner.exe
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\bin\Debug\CRSTDataCleaner.pdb
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.Properties.Resources.resources
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.csproj.GenerateResource.cache
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.exe
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.pdb
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.MainForm.resources
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.ViewForm.resources
+C:\Users\Joey\Desktop\New Paltz\Projects\Internship\CRSTDataCleaner\CRSTDataCleaner\obj\Debug\CRSTDataCleaner.EditForm.resources
